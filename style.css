@@ -1,0 +1,37 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	padding: 40px;
+	font-family: "Quicksand", serif;
+	background-color: #F5C26B;
+	text-align: center;
+}
+
+img {
+	width: 550px;
+}
+
+.container {
+	background-color: mediumpurple;
+	border-radius: 20px;
+	padding: 35px;
+	box-shadow: 8px 10px 20px 0px rgba(54,28,79,0.64);
+}
+
+a {
+	text-decoloration: none;
+	text-decoration:none;
+	color: black;
+}
+
+footer {
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	padding: 20px;
+	background-color: mediumpurple;
+	position: fixed;
+}
